@@ -7,7 +7,7 @@
 //
 
 import Foundation
-func input1() -> String {
+func input3() -> String {
     var keyboard = NSFileHandle.fileHandleWithStandardInput()
     var inputData = keyboard.availableData
     var strData = NSString(data: inputData, encoding: NSUTF8StringEncoding)!
