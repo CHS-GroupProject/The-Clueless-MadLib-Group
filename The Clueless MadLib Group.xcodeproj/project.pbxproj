@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		DC3082101C403FB700D18DCE /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC30820F1C403FB700D18DCE /* main.swift */; };
+		DC3082181C403FCF00D18DCE /* Jonah's Work.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC3082171C403FCF00D18DCE /* Jonah's Work.swift */; settings = {ASSET_TAGS = (); }; };
+		DC30821A1C403FF200D18DCE /* TAICHEN's Work.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC3082191C403FF200D18DCE /* TAICHEN's Work.swift */; settings = {ASSET_TAGS = (); }; };
+		DC30821C1C403FFE00D18DCE /* Garrett's Work.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC30821B1C403FFE00D18DCE /* Garrett's Work.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		DC30820C1C403FB700D18DCE /* The Clueless MadLib Group */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "The Clueless MadLib Group"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC30820F1C403FB700D18DCE /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		DC3082171C403FCF00D18DCE /* Jonah's Work.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Jonah's Work.swift"; sourceTree = "<group>"; };
+		DC3082191C403FF200D18DCE /* TAICHEN's Work.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "TAICHEN's Work.swift"; sourceTree = "<group>"; };
+		DC30821B1C403FFE00D18DCE /* Garrett's Work.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Garrett's Work.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +63,20 @@
 		DC30820E1C403FB700D18DCE /* The Clueless MadLib Group */ = {
 			isa = PBXGroup;
 			children = (
-				DC30820F1C403FB700D18DCE /* main.swift */,
+				DC3082161C403FBC00D18DCE /* Code */,
 			);
 			path = "The Clueless MadLib Group";
+			sourceTree = "<group>";
+		};
+		DC3082161C403FBC00D18DCE /* Code */ = {
+			isa = PBXGroup;
+			children = (
+				DC30820F1C403FB700D18DCE /* main.swift */,
+				DC3082171C403FCF00D18DCE /* Jonah's Work.swift */,
+				DC3082191C403FF200D18DCE /* TAICHEN's Work.swift */,
+				DC30821B1C403FFE00D18DCE /* Garrett's Work.swift */,
+			);
+			name = Code;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -118,6 +135,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DC30821A1C403FF200D18DCE /* TAICHEN's Work.swift in Sources */,
+				DC30821C1C403FFE00D18DCE /* Garrett's Work.swift in Sources */,
+				DC3082181C403FCF00D18DCE /* Jonah's Work.swift in Sources */,
 				DC3082101C403FB700D18DCE /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
