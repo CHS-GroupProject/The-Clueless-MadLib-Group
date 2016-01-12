@@ -72,9 +72,9 @@
 			isa = PBXGroup;
 			children = (
 				DC30820F1C403FB700D18DCE /* main.swift */,
-				DC3082171C403FCF00D18DCE /* Jonah's Work.swift */,
-				DC3082191C403FF200D18DCE /* TAICHEN's Work.swift */,
 				DC30821B1C403FFE00D18DCE /* Garrett's Work.swift */,
+				DC3082191C403FF200D18DCE /* TAICHEN's Work.swift */,
+				DC3082171C403FCF00D18DCE /* Jonah's Work.swift */,
 			);
 			name = Code;
 			sourceTree = "<group>";
@@ -256,6 +256,7 @@
 				DC3082151C403FB700D18DCE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

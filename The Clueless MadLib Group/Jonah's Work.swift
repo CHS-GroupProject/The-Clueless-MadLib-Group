@@ -14,3 +14,18 @@ func input2() -> String {
     
     return strData.stringByTrimmingCharactersInSet(NSCharacterSet.newlineCharacterSet())
 }
+// Jonah Please Work on Finding and typeing up 2 Mad Lib Excersizes
+// And  Assisting in Creating The Menu (We Will all work as a Group on this
+/*
+var select = input()
+//if select == "1" {
+var play1 = true
+while play1 == true {
+
+}
+} //else if select == "2" {
+var play2 = true
+while play2 == true {
+
+}
+}
